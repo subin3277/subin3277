@@ -1,8 +1,8 @@
-### Backend Developer
+### Frontend Developer
 #### I want to make the world more convenient.
 
 ### :paperclip: Notion
-[<img src="images/helloworld.png" width="500px">](https://www.notion.so/44b5ed2f5eb84daa909a6770bb817b52)
+[<img src="" width="500px">](https://www.notion.so/44b5ed2f5eb84daa909a6770bb817b52)
 
 </div>
 </a></figure>
