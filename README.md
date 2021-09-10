@@ -1,5 +1,5 @@
 ### Frontend Developer
-#### Do what you wanna do it's ok
+#### Do what you wanna do. it's ok.
 
 ### :paperclip: Notion
 [<img src="" width="500px">](https://www.notion.so/44b5ed2f5eb84daa909a6770bb817b52)
