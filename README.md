@@ -1,4 +1,4 @@
-### Android Developer
+### Android Developer 가 되고 싶은..
 #### Do what you wanna do. it's ok.
 
 ### :paperclip: Notion
