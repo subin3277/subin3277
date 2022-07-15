@@ -6,10 +6,6 @@
 <a href="https://languid-sail-fd5.notion.site/44b5ed2f5eb84daa909a6770bb817b52"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>
 <a href="https://www.instagram.com/sub._.dnee"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 
-
-### :paperclip: Notion
-[<img src="" width="500px">](https://www.notion.so/44b5ed2f5eb84daa909a6770bb817b52)
-
 </div>
 </a></figure>
 <p data-ke-size="size16">&nbsp;</p>
