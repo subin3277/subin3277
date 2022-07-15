@@ -1,6 +1,12 @@
 ### Android Developer 가 되고 싶은..
 #### Do what you wanna do. it's ok.
 
+### :heart: SNS
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsubin3277&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<a href="https://languid-sail-fd5.notion.site/44b5ed2f5eb84daa909a6770bb817b52"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>
+<a href="https://www.instagram.com/sub._.dnee"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+
+
 ### :paperclip: Notion
 [<img src="" width="500px">](https://www.notion.so/44b5ed2f5eb84daa909a6770bb817b52)
 
@@ -24,5 +30,3 @@
 ### :closed_lock_with_key: Problem Solving Skills
 [![subin3277's solvedac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=subin3277)](https://solved.ac/profile/subin3277)  
 
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsubin3277&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
