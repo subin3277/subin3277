@@ -6,6 +6,11 @@
 <a href="https://languid-sail-fd5.notion.site/44b5ed2f5eb84daa909a6770bb817b52"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>
 <a href="https://www.instagram.com/sub._.dnee"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 
+### :books: Skills
+Python JAVA HTML&CSS Django C# Kotlin
+
+### :hammer_and_pick: Tools
+Visual Studio Code Eclipse Android Studio Pycharm Git Github Notion
 
 ### :fire: Keywork
 [![capstone](https://github-readme-stats.vercel.app/api/pin/?username=subin3277&repo=Capston_Design)](https://github.com/subin3277/Capston_Design) 
