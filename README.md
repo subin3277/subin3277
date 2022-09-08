@@ -26,7 +26,6 @@
 <img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white" width="100" height="30"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" width="100" height="30"/>
 </p>
- Eclipse Android Studio Pycharm Git Github Notion
 
 ### :fire: Keywork
 [![capstone](https://github-readme-stats.vercel.app/api/pin/?username=subin3277&repo=Capston_Design)](https://github.com/subin3277/Capston_Design) 
