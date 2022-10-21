@@ -1,5 +1,9 @@
-### Android Developer 가 되고 싶은..
+### Android Developer
 #### *Do what you wanna do. it's ok.*
+
+### :memo: Active
+:school: Mathematics & Computer Science (2018.03 - 2022.02) :school:   
+:school: Samsung SW Academy For Youth 8th (2022.08 - ing) :school:
 
 ### :heart: SNS
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsubin3277&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
