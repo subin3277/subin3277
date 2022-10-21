@@ -12,6 +12,7 @@
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FF9E0F">
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS-0054FF?style=for-the-badge&logo=CSS3&logoColor=white" width="100" height="30"/>
+<img src="https://img.shields.io/badge/JavaScript-FBD601?style=for-the-badge&logo=JavaScript&logoColor=white" width="100" height="30"/>
 <img src="https://img.shields.io/badge/django-083020?style=for-the-badge&logo=django&logoColor=white" width="110" height="30"/> 
 <img src="https://img.shields.io/badge/kotlin-F7DF1E?style=for-the-badge&logo=kotlin&logoColor=white" width="110" height="30"/> 
 </p>
