@@ -1,4 +1,5 @@
 ### Front-End / Android Developer
+삭제되지않는 어플리케이션을 개발하는, 모두가 편리한 삶을 누릴 수 있게 도와주는 개발자
 #### *Do what you wanna do. it's ok.*
 
 ### :memo: Active
