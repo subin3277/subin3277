@@ -50,4 +50,3 @@
 
 ### :closed_lock_with_key: Problem Solving Skills
 [![subin3277's solvedac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=subin3277)](https://solved.ac/profile/subin3277)  
-
