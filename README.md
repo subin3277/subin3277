@@ -8,7 +8,7 @@
 
 ### :heart: SNS
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsubin3277&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<a href="https://languid-sail-fd5.notion.site/44b5ed2f5eb84daa909a6770bb817b52"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>
+<a href="https://languid-sail-fd5.notion.site/Subin-Kim-4ca56e90ec124b8094fedd358aee52fc"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>
 <a href="https://www.instagram.com/sub._.dnee"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 
 ### :books: Skills
@@ -35,6 +35,7 @@
 </p>
 
 ### :fire: Keywork
+[![NextNovel](https://github-readme-stats.vercel.app/api/pin/?username=subin3277&repo=NextNovel)](https://github.com/subin3277/NextNovel)
 [![Hobby'IT](https://github-readme-stats.vercel.app/api/pin/?username=subin3277&repo=Hobby-IT)](https://github.com/subin3277/Hobby-IT)
 [![capstone](https://github-readme-stats.vercel.app/api/pin/?username=subin3277&repo=Capston_Design)](https://github.com/subin3277/Capston_Design) 
 [![hanium](https://github-readme-stats.vercel.app/api/pin/?username=subin3277&repo=Hanium_project)](https://github.com/subin3277/Hanium_project)
