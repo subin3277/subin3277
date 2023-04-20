@@ -13,6 +13,7 @@
 
 ### :books: Skills
 <p>
+<img src= "https://img.shields.io/badge/react-282C35.svg?style=for-the-badge&logo=react&logoColor=5DDFFD" width="80" height="30"/>
 <img src= "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" width="80" height="30"/>
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FF9E0F">
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
