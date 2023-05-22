@@ -37,10 +37,10 @@
 
 ### :fire: Keywork
 [![NextNovel](https://github-readme-stats.vercel.app/api/pin/?username=subin3277&repo=NextNovel)](https://github.com/subin3277/NextNovel)
+[![SSAFVEY](https://github-readme-stats.vercel.app/api/pin/?username=subin3277&repo=SSAFVEY)](https://github.com/subin3277/SSAFVEY)
 [![Hobby'IT](https://github-readme-stats.vercel.app/api/pin/?username=subin3277&repo=Hobby-IT)](https://github.com/subin3277/Hobby-IT)
 [![capstone](https://github-readme-stats.vercel.app/api/pin/?username=subin3277&repo=Capston_Design)](https://github.com/subin3277/Capston_Design) 
 [![hanium](https://github-readme-stats.vercel.app/api/pin/?username=subin3277&repo=Hanium_project)](https://github.com/subin3277/Hanium_project)
-[![OTTDA](https://github-readme-stats.vercel.app/api/pin/?username=subin3277&repo=OTTDA)](https://github.com/subin3277/OTTDA)
 [![TIL](https://github-readme-stats.vercel.app/api/pin/?username=subin3277&repo=TIL)](https://github.com/subin3277/TIL)
 
 ### :pencil2: Languages
