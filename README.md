@@ -8,7 +8,7 @@
 
 ### :heart: SNS
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsubin3277&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<a href="https://languid-sail-fd5.notion.site/Subin-Kim-4ca56e90ec124b8094fedd358aee52fc"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>
+<a href="https://subin3277.notion.site/Subin-Kim-4ca56e90ec124b8094fedd358aee52fc"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>
 <a href="https://www.instagram.com/sub._.dnee"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 
 ### :books: Skills
@@ -19,6 +19,7 @@
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS-0054FF?style=for-the-badge&logo=CSS3&logoColor=white" width="100" height="30"/>
 <img src="https://img.shields.io/badge/JavaScript-FBD601?style=for-the-badge&logo=JavaScript&logoColor=black" width="100" height="30"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white" width="100" height="30"/>
 <img src="https://img.shields.io/badge/Vue.js-314257?style=for-the-badge&logo=Vue.js&logoColor=3AA476" width="100" height="30"/>
 <img src="https://img.shields.io/badge/django-083020?style=for-the-badge&logo=django&logoColor=white" width="110" height="30"/> 
 <img src="https://img.shields.io/badge/kotlin-F7DF1E?style=for-the-badge&logo=kotlin&logoColor=white" width="110" height="30"/> 
