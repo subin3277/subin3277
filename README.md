@@ -1,14 +1,14 @@
-### Front-End / Android Developer
+### Front-End Developer
 삭제되지않는 어플리케이션을 개발하는, 모두가 편리한 삶을 누릴 수 있게 도와주는 개발자
 #### *Do what you wanna do. it's ok.*
 
 ### :memo: Active
 :school: Mathematics & Computer Science (2018.03 - 2022.02) :school:   
-:school: Samsung SW Academy For Youth 8th (2022.08 - ing) :school:
+:school: Samsung SW Academy For Youth 8th (2022.07 - 2023.06) :school:
 
 ### :heart: SNS
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsubin3277&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<a href="https://subin3277.notion.site/Subin-Kim-4ca56e90ec124b8094fedd358aee52fc"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>
+<a href="https://drive.google.com/file/d/11pA04bOxDwBxxsnXw84ftUzzovoIhplS/view?usp=sharing"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=&logoColor=white"/></a>
 <a href="https://www.instagram.com/sub._.dnee"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 
 ### :books: Skills
